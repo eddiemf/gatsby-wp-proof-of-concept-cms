@@ -1,0 +1,14 @@
+{
+    "name": "eddiemf/headless-theme",
+    "description": "A headless theme for WordPress",
+    "require": {
+        "stoutlogic/acf-builder": "^1.8",
+        "vlucas/phpdotenv": "^3.3"
+    },
+    "authors": [
+        {
+            "name": "Mauricio Dziedzinski",
+            "email": "d.mauriciofarias@gmail.com"
+        }
+    ]
+}
